@@ -20,7 +20,7 @@
 **Make everything clear and run :**
 
 ```
-wget https://coding.net/u/LJokerP/p/AutoGhost/git/raw/master/AutoGhost.sh
+wget https://raw.githubusercontent.com/evil7/AutoGhost.sh/master/AutoGhost.sh
 
 sudo sh AutoGhost.sh
 ```
@@ -46,7 +46,7 @@ All blog-files install in : `/srv/ghost`
 
 Config file for Nginx save in : `/etc/nginx/sites-available/ghost.config`
 
-Need help please check here : [Feedback_in_Coding](https://coding.net/u/LJokerP/p/AutoGhost.sh/topic/64657) or [Feedback_in_Mail](mailto:ljokerp@sina.com?subject=AutoGhost_feedback)
+Need help please check here : [Feedback_in_Mail](mailto:ljokerp@sina.com?subject=AutoGhost_feedback)
 
 More Awesome things please check my blog ! >> [[ evil7's Blog ]](http://evil7.net)
 
