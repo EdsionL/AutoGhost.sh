@@ -15,7 +15,7 @@
 
 3. So if you are already have one in `/srv/ghost` don't forget to **BACKUP** your Database and Themes and any important files at first !
 
-4. Maybe some bugs with v1.0. How about check it out first ! → <a href="https://raw.githubusercontent.com/evil7/AutoGhost.sh/master/AutoGhost.sh" target="blank">Code</a>
+4. If you need check it first ! → <a href="https://raw.githubusercontent.com/evil7/AutoGhost.sh/master/AutoGhost.sh" target="blank">Code</a>
 
 **Make everything clear and run :**
 
@@ -25,14 +25,14 @@ wget https://raw.githubusercontent.com/evil7/AutoGhost.sh/master/AutoGhost.sh
 sudo sh AutoGhost.sh
 ```
 
-**Input your domain for your blog when you see the**
+**Input your domain for your blog when you see this :**
 
 ```
 please input your domain :
 http://
 ```
 
-( It will take 1-3 mins. Depend on your internet. )
+( It will take 1-2 mins. Depend on your internet. )
 
 #Useful info
 
