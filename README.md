@@ -38,7 +38,7 @@ http://
 
 About GhostBlog : [ghost.org (en)](http://ghost.org) / [ghostchina.com (cn)](http://ghostchina.com)
 
-Support OS : `Ubuntu` / `Debian (maybe work. I never try...)`
+Support OS : `Ubuntu` / `Debian` / `Kali`
 
 Will install : `curl` / `unzip` / `Nodejs` / `npm` / `SQLite3` / `Nginx` / `forever` / `watchdog`
 
@@ -50,7 +50,7 @@ Need help please check here : [Mail_Me](mailto:ljokerp@sina.com?subject=AutoGhos
 
 More Awesome things please check my blog ! >> [[ evil7's Blog ]](http://evil7.net)
 
-#Versions list
+#Update history
 
 * ( 2015/11/04 ) v1.0 ---- Coding AutoGhost.sh and fixed some bugs. It can't used in `curl -sL xxx | sh -` to do install. It will skip the `read -p` when running.
 * ( 2015/11/10 ) v1.1 ---- Fix a little bug and now ghost suppost nodejs-0.12 so let's use 0.12. ( 11:27 Happy 1111 day! )
