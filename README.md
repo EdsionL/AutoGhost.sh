@@ -54,3 +54,4 @@ More Awesome things please check my blog ! >> [[ evil7's Blog ]](http://evil7.ne
 
 * ( 2015/11/04 ) v1.0 ---- Coding AutoGhost.sh and fixed some bugs. It can't used in `curl -sL xxx | sh -` to do install. It will skip the `read -p` when running.
 * ( 2015/11/10 ) v1.1 ---- Fix a little bug and now ghost suppost nodejs-0.12 so let's use 0.12. ( 11:27 Happy 1111 day! )
+* ( 2015/12/10 ) v1.2 ---- Change to install nodejs 4.x for ghostblog. Fix a mistake and some commands.
