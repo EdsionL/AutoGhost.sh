@@ -124,6 +124,6 @@ echo " >>> All GhostBlog files install in : /srv/ghost"
 echo " >>> Database : /srv/ghost/content/data/#ghost-dev.db"
 echo " >>> Nodejs : "`node -v`"    npm : "`npm -v`
 echo ""
-echo " # All install done !"
+echo " # All done !"
 echo " # Enjoy your GhostBlog !"
 echo ""
