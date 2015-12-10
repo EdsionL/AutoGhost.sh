@@ -75,7 +75,7 @@ rm -rf /srv/ghost/content/data/*.db
 # install forever keep Ghost online
 
 npm install forever -g
-forever stop all
+forever stopall
 forever start /srv/ghost/index.js
 sed -i '/forever start \/srv\/ghost\/index.js/d' /etc/rc.local
 sed -i '/exit 0/d' /etc/rc.local
