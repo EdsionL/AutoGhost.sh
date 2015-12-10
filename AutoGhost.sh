@@ -1,8 +1,8 @@
 #!/bin/sh
 # ===============================
-#     AutoGhost version 1.1
+#     AutoGhost version 1.2
 #   http://evil7.net/autoghost
-#  Code at 2015-11-04   by evil7
+#          2015-12-10
 # ===============================
 
 # Begin
@@ -20,7 +20,7 @@ echo "#                .: Power by Evil7 :.                #"
 echo "#         Build with NodeJS + SQLite3 + Nginx        #"
 echo "#           [ http://evil7.net/AutoGhost ]           #"
 echo "#                                                    #"
-echo "#                        v1.1                        #"
+echo "#                        v1.2                        #"
 echo "######################################################"
 echo ""
 echo " >>> Only try with Ubuntu (maybe working with debian) "
@@ -35,9 +35,11 @@ sudo apt-get update --yes
 sudo apt-get install --yes curl
 sudo apt-get install --yes unzip
 
-# install nodejs
+# rm old nodejs install a new
 
-curl --silent --location https://deb.nodesource.com/setup_0.12 | sudo bash -
+rm -rf /usr/bin/node
+sudo apt-get autoremove --yes nodejs
+curl --silent --location https://deb.nodesource.com/setup_4.x | sudo bash -
 sudo apt-get install --yes nodejs
 ln -s /usr/bin/nodejs /usr/bin/node
 sudo apt-get install --yes build-essential
@@ -116,7 +118,7 @@ echo "#                .: Power by Evil7 :.                #"
 echo "#         Build with NodeJS + SQLite3 + Nginx        #"
 echo "#           [ http://evil7.net/AutoGhost ]           #"
 echo "#                                                    #"
-echo "#                        v1.1                        #"
+echo "#                        v1.2                        #"
 echo "######################################################"
 echo ""
 echo " >>> Your blog : http://"$URL
