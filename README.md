@@ -2,7 +2,7 @@
 
 ![](http://evil7.net/content/images/2015/11/AutoGhostLogo.jpg)
 
-*More Awesome things in my blog ! >> [[ evil7's Blog ]](http://evil7.net)* 原谅我学传媒情不自禁做张图 :p（原图来自火熊CG网）
+*More Awesome things in my blog ! >> [[ evil7's Blog ]](http://evil7.net)* :p（原图来自火熊CG网）
 
 
 #Start install
