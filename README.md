@@ -4,7 +4,6 @@
 
 *More Awesome things in my blog ! >> [[ evil7's Blog ]](http://evil7.net)* :p（原图来自火熊CG网）
 
-
 #Start install
 
 **Tips :**
