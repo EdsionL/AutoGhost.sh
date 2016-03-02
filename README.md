@@ -45,7 +45,7 @@ All blog-files install in : `/srv/ghost`
 
 Config file for Nginx save in : `/etc/nginx/sites-available/ghost.config`
 
-Need help please check here : [Mail_Me](mailto:ljokerp@sina.com?subject=AutoGhost_feedback)
+Need help please check here : [Mail_Me](mailto:ljokerp@foxmail.com?subject=AutoGhost_feedback)
 
 More Awesome things please check my blog ! >> [[ evil7's Blog ]](http://evil7.net)
 
